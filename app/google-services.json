@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057299305312",
+    "project_id": "ubication-map",
+    "storage_bucket": "ubication-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057299305312:android:1053f83c84b7d3c3ea0405",
+        "android_client_info": {
+          "package_name": "com.david.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057299305312-hepba0ceejfj6ha4d4h80gvn6nt412d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.david.uberclone",
+            "certificate_hash": "adb154e163f5761aa0e431672336681cb15f2ce5"
+          }
+        },
+        {
+          "client_id": "1057299305312-h17ami29a3rdu7ec5h3ku9mbn1s47k1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxgeaVsOvxLEO14NbOwx2Bi5Q3Li7r50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057299305312-h17ami29a3rdu7ec5h3ku9mbn1s47k1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
